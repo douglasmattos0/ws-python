@@ -7,7 +7,7 @@ Version:        1.0
 
 Description:
     This script describe the initial concepst about Python programming.
-    How to use f-gtring in Python
+    How to use f-string in Python
 
 Usage:
     Run the script in a Python environment:
